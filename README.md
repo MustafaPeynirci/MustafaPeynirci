@@ -3,7 +3,7 @@
 -I’m a student<br>
 -I'm interested in PHP <br>
 -I’m addicted to learning and growing every day<br>
--How to reach me mustafa.peynirci@ogr.dpu.edu.tr<br>
+-How to reach me mustafapeynircigithub@gmail.com<br>
 
 
 
