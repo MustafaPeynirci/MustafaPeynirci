@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mustafapeynirci/" target="_blank" rel="nofollow"><img alt="Mustafa's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mustafapeynirciii@gmail.com" target="_blank" rel="nofollow"><img alt="Mustafa's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasansaid&label=Profile%20views&color=0e75b6&style=flat" alt="hasansaid" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MustafaPeynirci&label=Profile%20views&color=0e75b6&style=flat" alt="MustafaPeynirci" /> </p>
 
 <!--<p align="center"> Visitor count<br><img src="https://profile-counter.glitch.me/MustafaPeynirci/count.svg" /></p>-->
 
