@@ -4,15 +4,13 @@
 [![GitHub stars](https://img.shields.io/github/stars/MustafaPeynirci?style=flat&logo=github&)](https://github.com/MustafaPeynirci?tab=repositories) -->
 
 <!-- <hr> -->
-
-
-
+  
   <a href="https://www.linkedin.com/in/mustafapeynirci/" target="_blank" rel="nofollow"><img alt="Mustafa's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mustafapeynirciii@gmail.com" target="_blank" rel="nofollow"><img alt="Mustafa's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasansaid&label=Profile%20views&color=0e75b6&style=flat" alt="hasansaid" /> </p>
 
-
-
+<!--<p align="center"> Visitor count<br><img src="https://profile-counter.glitch.me/MustafaPeynirci/count.svg" /></p>-->
 
 <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/61664693/116169142-b569fb80-a70c-11eb-8de0-029cbc2b2aef.png" width="40px"></img></a>
  <a href="https://nodejs.org/en/" ><img src="https://user-images.githubusercontent.com/61664693/116169136-b4d16500-a70c-11eb-8418-48daba4e08ef.png" width="40px"></img></a>
