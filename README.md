@@ -28,10 +28,10 @@
 
 <div style="display:flex; flex-wrap:nowrap;">
     <a href="https://github.com/MustafaPeynirci" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=MustafaPeynirci&count_private=true&show_icons=true&theme=nord">  
+      <img style="width:378px" src="https://github-readme-stats.vercel.app/api?username=MustafaPeynirci&count_private=true&show_icons=true&theme=nord">  
     </a>
     <a href="https://github.com/MustafaPeynirci" target="_blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=MustafaPeynirci&theme=nord&date_format=j%20M%5B%20Y%5D" />
+      <img style="width:400px" src="https://github-readme-streak-stats.herokuapp.com?user=MustafaPeynirci&theme=nord&date_format=j%20M%5B%20Y%5D" />
     </a>
     <!-- dracula theme yapmak için theme=nord değiştir theme=dracula -->
 </div>
