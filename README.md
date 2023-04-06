@@ -26,21 +26,15 @@
 
 <hr>
 
-<p align="center">
-  <p>
+<div style="display:flex; flex-wrap:nowrap;">
     <a href="https://github.com/MustafaPeynirci" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=MustafaPeynirci&count_private=true&show_icons=true&theme=nord">  
-    <!-- dracula theme yapmak için theme=nord değiştir theme=dracula -->
+      <img src="https://github-readme-stats.vercel.app/api?username=MustafaPeynirci&count_private=true&show_icons=true&theme=nord">  
     </a>
-</p>
-  <p>
-  <a href="https://github.com/MustafaPeynirci" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MustafaPeynirci&theme=nord&date_format=j%20M%5B%20Y%5D" />
-  </a>
-  </p>
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/MustafaPeynirci)
+    <a href="https://github.com/MustafaPeynirci" target="_blank">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MustafaPeynirci&theme=nord&date_format=j%20M%5B%20Y%5D" />
+    </a>
+    <!-- dracula theme yapmak için theme=nord değiştir theme=dracula -->
+</div>
 
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MustafaPeynirci&theme=nord)](https://github.com/MustafaPeynirci)
